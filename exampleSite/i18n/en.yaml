@@ -30,3 +30,9 @@
 
 - id: empty_search_results_placeholder
   translation: Type something to search..
+
+- id: email_address
+  translation: Email Address
+
+- id: join_mail_list
+  translation: Join our mailing list

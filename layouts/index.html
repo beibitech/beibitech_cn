@@ -153,7 +153,7 @@
       novalidate="novalidate">
       <div class="input-group w-75 mx-auto mb-3">
         <label for="EMAIL" class="form-label">
-          Email Address <span class="text-red-500">*</span>
+          {{ i18n "email_address" }} <span class="text-red-500">*</span>
         </label>
 
         <input
@@ -170,7 +170,7 @@
         class="input-group-text btn btn-primary"
         name="subscribe"
         id="mc-embedded-subscribe">
-        {{ .button_label }}
+        {{ i18n .button_label }}
       </button>
       <input
         type="hidden"

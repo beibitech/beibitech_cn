@@ -30,3 +30,9 @@
 
 - id: empty_search_results_placeholder
   translation:  输入关键字搜索..
+
+- id: email_address
+  translation: 邮箱地址
+
+- id: join_mail_list
+  translation: 加入邮件列表
