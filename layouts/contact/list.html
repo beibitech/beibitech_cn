@@ -63,6 +63,10 @@
   {{ with site.Params.subscription }}
     {{ if .enable }}
       <!-- subscription form -->
+      <section class="section-sm">
+        <div class="container">
+          <div class="row">
+            <div class="md:col-10 lg:col-6 mx-auto">
       <form
         action="{{ .mailchimp_form_action | safeURL }}"
         method="post"
@@ -73,13 +77,13 @@
             type="email"
             name="EMAIL"
             placeholder="Email"
-            class="form-control required email mce_inline_error"
+            class="form-control required email mce_inline_error form-input"
             id="mce-EMAIL"
             aria-required="true"
             autocomplete="off"
             required />
           <button
-            class="input-group-text"
+            class="input-group-text btn btn-primary"
             name="subscribe"
             id="mc-embedded-subscribe">
             {{ .button_label }}
@@ -107,7 +111,11 @@
       <script
         type="text/javascript"
         src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
-      <!-- /subscription form -->
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /subscription form -->
     {{ end }}
   {{ end }}
 
