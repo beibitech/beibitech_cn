@@ -1,51 +1,52 @@
 ---
 # Banner
 banner:
-  title: "等待本地化The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "等-待-本-地-化"
+  content: "欢迎来到北碧科技，探索游戏的奇妙起点。"
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "我们的游戏"
+    link: "https://www.beibitech.com/"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "关于我们"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "我们是一家坐落于中国杭州的独立游戏工作室，自2023年8月起，我们致力于将深刻的乐趣融入每一个游戏的灵魂。北碧科技不仅仅是游戏的制造者，更是乐趣的缔造者。"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "积极"
+      - "灵活"
+      - "理性"
+      - "严谨"
+      - "创意与创新"
+      - "乐趣满溢！"
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "我们的作品"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "在北碧科技，我们相信巧妙的游戏机制与打动人心的细节构成了独立游戏的灵魂。以下是我们的作品："
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "《jjgk》，我们的最新力作，一款结合了中国古代元素的roguelike经营战斗卡牌游戏。"
+      - "...未完待续！"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "了解更多"
+      link: "https://www.beibitech.com/"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "北碧游戏的特别之处"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "选择北碧的游戏，意味着您将沉浸在一个充满细节的世界中，每一个细节都是我们游戏热情的体现，每一处设计都旨在为您创造难忘的回忆。"
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "文化探索"
+      - "玩法创新"
+      - "美术风格"
+      - "重视社群"
+      - "热爱游戏"
+      - "关注细节"
     button:
       enable: false
       label: ""
