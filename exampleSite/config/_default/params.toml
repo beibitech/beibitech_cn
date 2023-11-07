@@ -100,3 +100,7 @@ button_label = "join_mail_list"
 # mailchimp subsciption
 mailchimp_form_action = "https://beibitech.us11.list-manage.com/subscribe/post?u=6d6700d0974b2e45f7f743491&amp;id=96310c3d19&amp;f_id=00acade0f0" # replace this url with yours
 mailchimp_form_name = "mc-embedded-subscribe-form"
+
+# Contact
+[Contact]
+message_goes_here = "message_goes_here"
