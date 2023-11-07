@@ -33,7 +33,7 @@ url = "contact/"
 
 [[main]]
 parent = "Pages"
-name = "Authors"
+name = "Beibiers"
 url = "authors/"
 
 [[main]]

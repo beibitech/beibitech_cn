@@ -1,8 +1,8 @@
 ---
-title: "Hey, we are Beibi Tech!"
+title: "Hey! we are Beibi Tech"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/logo_600_600.png"
+image: "/images/logo_600_600.svg"
 draft: false
 ---
 

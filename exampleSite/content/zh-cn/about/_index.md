@@ -2,7 +2,7 @@
 title: "你好！我们是北碧"
 meta_title: "关于我们"
 description: "this is meta description"
-image: "/images/logo_600_600.png"
+image: "/images/logo_600_600.svg"
 draft: false
 ---
 

@@ -36,3 +36,6 @@
 
 - id: join_mail_list
   translation: Join our mailing list
+
+- id: contact_us
+  translation: Contact Us

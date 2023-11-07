@@ -36,3 +36,6 @@
 
 - id: join_mail_list
   translation: 加入邮件列表
+  
+- id: contact_us
+  translation: 联系我们

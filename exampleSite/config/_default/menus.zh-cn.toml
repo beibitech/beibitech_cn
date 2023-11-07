@@ -23,17 +23,17 @@ hasChildren = true
 
 [[main]]
 parent = "页面"
-name = "博客"
+name = "情报专栏"
 url = "blog/"
 
 [[main]]
 parent = "页面"
-name = "联系"
+name = "联系我们"
 url = "contact/"
 
 [[main]]
 parent = "页面"
-name = "作者"
+name = "碧宝们"
 url = "authors/"
 
 [[main]]
