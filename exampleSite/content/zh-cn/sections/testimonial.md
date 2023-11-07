@@ -1,29 +1,29 @@
 ---
 enable: true
-title: "What Users Are Saying About Hugoplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate."
+title: "What Players Are Saying About Beibi Tech"
+description: "Don't just take our word for it - hear from some of our satisfied players!  Check out some of our testimonials below to see what others are saying about Beibi Tech."
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+  - name: "Liangliang Ma"
+    designation: "Game Designer"
+    avatar: "/images/image (39).png"
+    content: "Fun games, talented developers! It's such an amazing journey. Look forward to more masterpieces! Love from Chinakou."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+  - name: "Yue Li"
+    designation: "Marketing Manager"
+    avatar: "/images/image (37).png"
+    content: "Fun games, talented developers! It's such an amazing journey. Look forward to more masterpieces! Love from Chinakou."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+  - name: "Mad Xiong"
+    designation: "Chief Energy Officer"
+    avatar: "/images/image (32).png"
+    content: "Fun games, talented developers! It's such an amazing journey. Look forward to more masterpieces! Love from Chinakou."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+  - name: "Lit Ta"
+    designation: "Chief Music Officer"
+    avatar: "/images/image (40).png"
+    content: "Fun games, talented developers! It's such an amazing journey. Look forward to more masterpieces! Love from Chinakou."
 
 # don't create a separate page
 _build:

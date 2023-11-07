@@ -1,9 +1,9 @@
 ---
-title: "Hey, I am John Doe!"
+title: "Hey, we are Beibi Tech!"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/avatar.png"
+image: "/images/logo_600_600.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+At Beibi Tech, we believe that ingenious game mechanics and heart-touching details are the wellspring of indie gaming delight. Our mission is to return fun to its most authentic form, allowing players to rediscover the unforgettable moments with gaming with every click, every battle. Through each game we meticulously craft, we aspire to accompany you to spend the most enjoyable gaming time.
