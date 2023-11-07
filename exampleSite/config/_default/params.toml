@@ -103,4 +103,5 @@ mailchimp_form_name = "mc-embedded-subscribe-form"
 
 # Contact
 [Contact]
-message_goes_here = "message_goes_here"
+message_place_holder = "message_goes_here"
+name_place_holder = "example_name"

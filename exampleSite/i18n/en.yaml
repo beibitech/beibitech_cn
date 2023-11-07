@@ -42,3 +42,18 @@
 
 - id: message_goes_here
   translation: Message goes here...
+
+- id: example_mail
+  translation: beibier@beibitech.com
+
+- id: full_name
+  translation: Full Name
+
+- id: example_name
+  translation: Beibier
+
+- id: working_mail
+  translation: Working Mail
+
+- id: anything_else
+  translation: Anything else?

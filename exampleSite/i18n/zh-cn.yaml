@@ -42,3 +42,18 @@
 
 - id: message_goes_here
   translation: 请输入内容...
+
+- id: example_mail
+  translation: beibier@beibitech.com
+
+- id: full_name
+  translation: 姓名
+
+- id: example_name
+  translation: 碧宝
+
+- id: working_mail
+  translation: 联系邮箱
+
+- id: anything_else
+  translation: 其他想说的？
