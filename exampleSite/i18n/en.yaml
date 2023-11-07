@@ -39,3 +39,6 @@
 
 - id: contact_us
   translation: Contact Us
+
+- id: message_goes_here
+  translation: Message goes here...

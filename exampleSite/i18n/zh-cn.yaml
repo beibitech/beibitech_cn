@@ -39,3 +39,6 @@
   
 - id: contact_us
   translation: 联系我们
+
+  - id: message_goes_here
+  translation: 请输入内容...
