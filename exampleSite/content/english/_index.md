@@ -30,8 +30,8 @@ features:
     image: "/images/service-2.png"
     content: "At Beibi Tech, we believe that ingenious game mechanics and heart-touching details are the wellspring of indie gaming delight. Here are our games:"
     bulletpoints:
-      - ""Cube's Smash", our latest masterpiece, is a casual puzzle game where you can revel in the exhilarating audio-visual effects of cube collisions. Challenge your intellectual limits and unwind in the delightful world of casual gaming."
-      - ""JJGK", a roguelike card game intertwined with the essence of ancient China, focusing on strategy."
+      - "\"Cube's Smash\", our latest masterpiece, is a casual puzzle game where you can revel in the exhilarating audio-visual effects of cube collisions. Challenge your intellectual limits and unwind in the delightful world of casual gaming."
+      - "\"JJGK\", a roguelike card game intertwined with the essence of ancient China, focusing on strategy."
       - "...and more!"
     button:
       enable: true
