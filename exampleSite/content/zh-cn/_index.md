@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "等-待-本-地-化"
+  title: "风起于青萍之末"
   content: "欢迎来到北碧科技，探索游戏的奇妙起点。"
   image: "/images/banner.png"
   button:
@@ -30,7 +30,8 @@ features:
     image: "/images/service-2.png"
     content: "在北碧科技，我们相信巧妙的游戏机制与打动人心的细节构成了独立游戏的灵魂。以下是我们的作品："
     bulletpoints:
-      - "《jjgk》，我们的最新力作，一款结合了中国古代元素的roguelike经营战斗卡牌游戏。"
+      - "《Cube's Smash》，我们的最新力作，一款益智休闲小游戏。在方块碰撞中享受酣畅淋漓的视听效果，挑战自己的智力极限，畅享休闲时光。"
+      - "《JJGK》(开发中)，一款结合了中国古代元素的roguelike经营卡牌游戏。"
       - "...未完待续！"
     button:
       enable: true
