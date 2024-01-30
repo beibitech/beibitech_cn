@@ -11,11 +11,10 @@ name = "关于"
 url = "about/"
 weight = 2
 
-[[main]]
-parent = "页面"
-name = "元素"
-url = "elements/"
-weight = 3
+#[[main]]
+#parent = "页面"
+#name = "元素"
+#url = "elements/"
 
 [[main]]
 weight = 4
@@ -35,6 +34,7 @@ url = "contact/"
 [[main]]
 name = "碧宝们"
 url = "authors/"
+weight = 3
 
 [[main]]
 parent = "页面"
@@ -53,10 +53,10 @@ name = "关于"
 url = "about/"
 weight = 1
 
-[[footer]]
-name = "元素"
-url = "elements/"
-weight = 2
+#[[footer]]
+#name = "元素"
+#url = "elements/"
+#weight = 2
 
 [[footer]]
 name = "隐私政策"

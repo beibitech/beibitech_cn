@@ -11,11 +11,10 @@ name = "About"
 url = "about/"
 weight = 2
 
-[[main]]
-parent = "Pages"
-name = "Elements"
-url = "elements/"
-weight = 3
+#[[main]]
+#parent = "Pages"
+#name = "Elements"
+#url = "elements/"
 
 [[main]]
 weight = 4
@@ -35,6 +34,7 @@ url = "contact/"
 [[main]]
 name = "Beibiers"
 url = "authors/"
+weight = 3
 
 [[main]]
 parent = "Pages"
@@ -53,10 +53,10 @@ name = "About"
 url = "about/"
 weight = 1
 
-[[footer]]
-name = "Elements"
-url = "elements/"
-weight = 2
+#[[footer]]
+#name = "Elements"
+#url = "elements/"
+#weight = 2
 
 [[footer]]
 name = "Privacy Policy"
