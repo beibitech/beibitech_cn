@@ -12,6 +12,7 @@ url = "about/"
 weight = 2
 
 [[main]]
+parent = "页面"
 name = "元素"
 url = "elements/"
 weight = 3
@@ -32,7 +33,6 @@ name = "联系我们"
 url = "contact/"
 
 [[main]]
-parent = "页面"
 name = "碧宝们"
 url = "authors/"
 
@@ -41,10 +41,10 @@ parent = "页面"
 name = "类目"
 url = "categories/"
 
-[[main]]
-parent = "页面"
-name = "404 页面"
-url = "404/"
+#[[main]]
+#parent = "页面"
+#name = "404 页面"
+#url = "404/"
 
 
 # footer menu
