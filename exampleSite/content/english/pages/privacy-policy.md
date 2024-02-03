@@ -10,9 +10,9 @@ draft: false
 
 # **Privacy and cookie statement Beibi Technology Co., Ltd.**
 
-This privacy and cookie statement was most recently revised on 30 January 2024.
+This privacy and cookie statement was most recently revised on 31 January 2024.
 
-Your privacy and the protection of your personal data is of great importance to Beibi Technology Co., Ltd. (hereinafter: Beibi). During the processing of your personal data via our games, we work in accordance with the requirements for the processing of personal data laid down in the privacy legislation (General Data Protection Regulation). This means we:
+Your privacy and the protection of your personal data is of great importance to Beibi Technology Co., Ltd. (hereinafter:  “Beibi”, “we”, “us” or “our”). During the processing of your personal data via our games, we work in accordance with the requirements for the processing of personal data laid down in the privacy legislation (General Data Protection Regulation). This means we:
 
 - **Clearly specify our purposes** before we process personal data, by using this privacy and cookie statement.
 - **Limit our collection of personal data** to only the personal data needed for legitimate purposes.
@@ -40,27 +40,15 @@ We use this information in order to be able to handle your request to contact yo
 
 # _Downloading our games_
 
-Our games can be downloaded via the [App Store](https://www.apple.com/legal/privacy/en-ww/), the [Google Play Store](https://policies.google.com/privacy?hl=en), [Steam](https://store.steampowered.com/privacy_agreement/english/?l=english), [GOG](https://support.gog.com/hc/en-us/articles/212632109-Privacy-Policy?_ga=2.195370924.1854653133.1629904412-1058183345.1629904412&product=gog)and [Itch.io](https://itch.io/docs/legal/privacy-policy). We have no influence on which personal data is processed by these providers and for what purpose they use your information. Therefore, we recommend that you read the relevant privacy statement of the provider in question.
+Our games can be downloaded via the [App Store](https://www.apple.com/legal/privacy/en-ww/). We have no influence on which personal data is processed by the provider and for what purpose they use your information. Therefore, we recommend that you read the relevant privacy statement of the provider in question.
 
 # _In-app purchase_
 
-In some of our games you can do in-app purchases. The in-app purchases are handled by the digital distribution service via which you downloaded our game. This may be the [App Store](https://www.apple.com/legal/privacy/en-ww/), the [Google Play](https://policies.google.com/privacy?hl=en)[Store](https://policies.google.com/privacy?hl=en), [Steam](https://store.steampowered.com/privacy_agreement/english/?l=english), [GOG](https://support.gog.com/hc/en-us/articles/212632109-Privacy-Policy?_ga=2.195370924.1854653133.1629904412-1058183345.1629904412&product=gog)or [Itch.io](https://itch.io/docs/legal/privacy-policy)We have no influence on which personal data is processed by these providers and for what purpose they use your information. Therefore, we recommend that you read the privacy statement of the digital distribution service in question.
+In our games you can do in-app purchases. The in-app purchases are handled by the digital distribution service via which you downloaded our game. This may be the [App Store](https://www.apple.com/legal/privacy/en-ww/). We have no influence on which personal data is processed by the provider and for what purpose they use your information. Therefore, we recommend that you read the privacy statement of the digital distribution service in question.
 
 # _Rating the game and writing a review_
 
-Within some of our games, you have the possibility to rate the game or write a review. Your review will be shown by the digital distribution service, via which you downloaded the game. Again, we have no influence on which personal data is processed by these providers and for what purpose they use your information. Therefore, we recommend you read the relevant privacy statement as mentioned above.
-
-# _Contest_
-
-You can choose to take part in one of our contests.
-
-For this purpose, we process the following personal data:
-
-- Name
-- E-mail address
-- Address
-
-We need this information in order to be able to send you your price, when you win the contest and to perform the contract with you to this end. We store this information until the price has been sent to you.
+Within our games, you have the possibility to rate the game or write a review. Your review will be shown by the digital distribution service, via which you downloaded the game. Again, we have no influence on which personal data is processed by the provider and for what purpose they use your information. Therefore, we recommend you read the relevant privacy statement as mentioned above.
 
 # Providing data to third parties
 
@@ -86,14 +74,12 @@ In order to provide this service, Beibi may provide your personal data to partie
 In our games we may use social media buttons, which redirect you to the social media platforms. This gives you the option to follow us and share content within the network. You will also see advertisements on your social media page. The buttons are active because of bits of code that come from the social media networks. If you want to know what the social media platforms do with your personal data, please read the relevant privacy statement:
 
 - [Facebook (privacy policy)](https://www.facebook.com/policy.php)
-- [Twitter (privacy policy)](https://twitter.com/en/privacy)
+- [X (privacy policy)](https://twitter.com/en/privacy)
 - [YouTube (privacy policy)](https://policies.google.com/privacy?hl=en-US)
 - [Instagram (privacy policy)](https://help.instagram.com/519522125107875)
 - [Discord (privacy policy)](https://discord.com/privacy)
 - [Google (privacy policy)](https://policies.google.com/privacy?hl=en-US)
-- [Disqus (privacy policy)](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy)
 - [Weibo (privacy policy)](https://privacy.weibo.com/policy)
-- [VK.com (privacy policy)](https://m.vk.com/privacy?api_view=1&cc=CN&lang=en)
 
 # Cookies
 
@@ -131,11 +117,11 @@ We take appropriate technical and organizational security measures with regard t
 
 You can always contact us if you have any questions regarding our privacy and cookie statement. Besides that, you have the following rights regarding your personal data:
 
-- **Right of access** : you have the right to see what kind of personal data we process about you.
+- **Right of access** : you have the right to access personal information we hold about you, how we use it, and who we share it with. If you believe we hold any other personal information about you, please contact us.
 - **Right of rectification** : you have the right to rectify any personal data we process about you, if this information is (partially) wrong.
 - **Right to object** : you have the right to object against the processing of your personal data by us, or against direct marketing.
 - **Right to be forgotten:** you can file a request with us to remove any personal data we process of you.
-- **Right to data portability** : if technically possible, you have the right to ask us to transfer your processed personal data to a third party.
+- **Right to data portability** : you have the right to receive a copy of certain personal information we process about you. If technically possible, you have the right to ask us to transfer your processed personal data to a third party.
 - **Right to restriction of processing** : you can file a request with us to (temporarily) restrict the processing of your personal data.
 - **Right to revoke your consent** , when we process your data based on your consent.
 

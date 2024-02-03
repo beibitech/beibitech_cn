@@ -30,7 +30,7 @@ features:
     image: "/images/service-2.png"
     content: "在北碧科技，我们相信巧妙的游戏机制与打动人心的细节构成了独立游戏的灵魂。以下是我们的作品："
     bulletpoints:
-      - "《Cube's Smash》，我们的最新力作，一款益智休闲小游戏。在方块碰撞中享受酣畅淋漓的视听效果，挑战自己的智力极限，畅享休闲时光。"
+      - "《Cube's Smash》[(点击此处下载游戏)](https://apps.apple.com/us/app/cubes-smash/id6474254883)，我们的最新力作，一款益智休闲小游戏。在方块碰撞中享受酣畅淋漓的视听效果，挑战自己的智力极限，畅享休闲时光。"
       - "《JJGK》(开发中)，一款结合了中国古代元素的roguelike经营卡牌游戏。"
       - "...未完待续！"
     button:
