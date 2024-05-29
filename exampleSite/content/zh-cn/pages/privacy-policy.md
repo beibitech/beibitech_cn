@@ -20,7 +20,7 @@ Your privacy and the protection of your personal data is of great importance to 
 - Take **appropriate security measures** to protect your personal data and we demand the same from parties who process personal data on our behalf.
 - **Respect your right** to access, correct or delete your personal data held by us.
 
-This privacy and cookie statement only sees on the games of Beibi, of which a complete overview is available on www.beibitech.com. For more information about Beibi and the processing of personal data by Beibi in general, please read the privacy and cookie statement of Beibi on www.beibitech.com.
+This privacy and cookie statement only sees on the games of Beibi, of which a complete overview is available on www.beibitech.cn. For more information about Beibi and the processing of personal data by Beibi in general, please read the privacy and cookie statement of Beibi on www.beibitech.cn.
 
 **For what purposes do we use your personal data?**
 

@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "我们的游戏"
-    link: "https://www.beibitech.com/"
+    link: "https://www.beibitech.cn/"
 
 # Features
 features:
@@ -36,7 +36,7 @@ features:
     button:
       enable: true
       label: "了解更多"
-      link: "https://www.beibitech.com/"
+      link: "https://www.beibitech.cn/"
 
   - title: "北碧游戏的特别之处"
     image: "/images/service-3.png"

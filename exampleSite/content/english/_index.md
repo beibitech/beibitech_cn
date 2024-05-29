@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Our Games"
-    link: "https://www.beibitech.com/"
+    link: "https://www.beibitech.cn/"
 
 # Features
 features:    
@@ -36,7 +36,7 @@ features:
     button:
       enable: true
       label: "Learn More"
-      link: "https://www.beibitech.com/"
+      link: "https://www.beibitech.cn/"
 
   - title: "What Is Special About Beibi Tech’s Games"
     image: "/images/service-3.png"
