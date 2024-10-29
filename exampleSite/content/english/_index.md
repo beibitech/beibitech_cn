@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Our Games"
-    link: "https://www.beibitech.com/"
+    link: "https://www.beibitech.cn/"
 
 # Features
 features:    
