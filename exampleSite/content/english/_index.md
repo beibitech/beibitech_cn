@@ -27,16 +27,17 @@ features:
       link: "#"
 
   - title: "Discover More Games From Beibi"
-    image: "/images/service-2.png"
+    image: "images/game-1.png"
     content: "At Beibi Tech, we believe that ingenious game mechanics and heart-touching details are the wellspring of indie gaming delight. Here are our games:"
     bulletpoints:
-      - "\"Cube's Smash\"[(click here to download from App Store)](https://apps.apple.com/us/app/cubes-smash/id6474254883), our latest masterpiece, is a casual puzzle game where you can revel in the exhilarating audio-visual effects of cube collisions. Challenge your intellectual limits and unwind in the delightful world of casual gaming."
-      - "\"JJGK\", a roguelike card game intertwined with the essence of ancient China, focusing on strategy."
+      - "\"Cube's Smash\"[(click here to check it out on App Store)](https://apps.apple.com/us/app/cubes-smash/id6474254883): a casual puzzle game where you can revel in the exhilarating audio-visual effects of cube collisions. Challenge your intellectual limits and unwind in the delightful world of casual gaming."
+      - "\"Purrfect Eats\"[(click here to check it out on App Store)](https://apps.apple.com/us/app/purrfect-eats/id6480464315): Easily manage a Chinese eatery in this relaxing idle game with your cat colleagues. Strategize upgrades, and savor the pure joy of running your own restaurant."
+      - "\"Wordban\"[(click here to check it out on Steam)](https://store.steampowered.com/app/3126790/Wordban/): a text-based box-pushing game where you control \"Wordo\" to push boxes and trigger each level's rules, altering the boxes' layout, quantity, and even attributes. With over 100 unique levels, Wordo is waiting to explore with you!"
       - "...and more!"
     button:
       enable: true
-      label: "Learn More"
-      link: "https://www.beibitech.cn/"
+      label: "Latest Work"
+      link: "https://store.steampowered.com/app/3126790/Wordban/"
 
   - title: "What Is Special About Beibi Tech’s Games"
     image: "/images/service-3.png"

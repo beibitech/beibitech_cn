@@ -27,16 +27,17 @@ features:
       link: "#"
 
   - title: "我们的作品"
-    image: "/images/service-2.png"
+    image: "images/game-1.png"
     content: "在北碧科技，我们相信巧妙的游戏机制与打动人心的细节构成了独立游戏的灵魂。以下是我们的作品："
     bulletpoints:
-      - "《Cube's Smash》[(点击此处下载游戏)](https://apps.apple.com/us/app/cubes-smash/id6474254883)，我们的最新力作，一款益智休闲小游戏。在方块碰撞中享受酣畅淋漓的视听效果，挑战自己的智力极限，畅享休闲时光。"
-      - "《JJGK》(开发中)，一款结合了中国古代元素的roguelike经营卡牌游戏。"
+      - "《Cube's Smash》[(点击此处在AppStore上查看详情)](https://apps.apple.com/us/app/cubes-smash/id6474254883)：一款益智休闲解谜小游戏。在方块碰撞中享受酣畅淋漓的视听效果，挑战自己的智力极限，畅享休闲时光。"
+      - "《Purrfect Eats》[(点击此处在AppStore上查看详情)](https://apps.apple.com/us/app/purrfect-eats/id6480464315)：在这款休闲的独立游戏里和猫猫同事们一起经营一家自己的小餐馆吧！有策略地升级餐馆，享受经营中式餐馆的纯正乐趣。"
+      - "《Wordban》[(点击此处在Steam上查看详情)](https://store.steampowered.com/app/3126790/Wordban/)：一款基于文字的推箱子游戏，操控“瓦豆”推动箱子，触发各关卡的规则，变化箱子的布局、数量甚至属性。100+独特关卡，瓦豆正在等待着与你一同探索！"
       - "...未完待续！"
     button:
       enable: true
-      label: "了解更多"
-      link: "https://www.beibitech.cn/"
+      label: "最新力作"
+      link: "https://store.steampowered.com/app/3126790/Wordban/"
 
   - title: "北碧游戏的特别之处"
     image: "/images/service-3.png"
